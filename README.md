@@ -1,2 +1,2 @@
 # practice
-git tutorial
+practice repository
