@@ -1,0 +1,19 @@
+
+p {
+    font-size: 20em;
+}
+
+body {
+    background-color: rgba(29, 66, 167, 0.75);
+}
+
+
+#name {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: white;
+}
+
+
+/* CSS comments are just like multi-line JavaScript ones. */
